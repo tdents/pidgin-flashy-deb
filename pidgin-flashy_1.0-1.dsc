@@ -14,22 +14,22 @@ Package-List:
  pidgin-flashy deb net optional
 Checksums-Sha1: 
  0ea7fe5373d5937d3314f5f0e5812c1ab032b0d7 2112 pidgin-flashy_1.0.orig.tar.xz
- ec56fb0fde5abe4412a57bb70ced4d3aee69e1df 826 pidgin-flashy_1.0-1.debian.tar.gz
+ 5fc848f842c1182a2680a2a26a60cad1b8261d51 835 pidgin-flashy_1.0-1.debian.tar.gz
 Checksums-Sha256: 
  dacb16cf81601c4b7fb62076400ee790346b9d82e0ae1203a4550823c90f528e 2112 pidgin-flashy_1.0.orig.tar.xz
- ba6aafd5cb8578f7c77de7bce8fb41245bbc4d7b59087d11d334e753f50c145e 826 pidgin-flashy_1.0-1.debian.tar.gz
+ 5699ddcd244c2f79fa528696ac0e0d57dc43b1f48548309d7cbdc951e8ca5b67 835 pidgin-flashy_1.0-1.debian.tar.gz
 Files: 
  6d5edfd27fb27d55c349966374f66d1e 2112 pidgin-flashy_1.0.orig.tar.xz
- 913b3486a0030a0f7fe6ab6e16a9138b 826 pidgin-flashy_1.0-1.debian.tar.gz
+ 63b36892d30877757577e177d70978eb 835 pidgin-flashy_1.0-1.debian.tar.gz
 
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJWKskQAAoJEII7l3Qv+yalLRsH/jPrm1RJvDKq8cFIA21FT/3y
-4DtemRFOJkZ/1pIlXofUYI47+nSqMLARh6EYdoDJIXF8TjFUj+d5QvBXawYbgZyq
-4nUphlMEqJjRit4lg6P0sz54w2TffbBdfCcYWoE64YdO6uQhCD3GypBl224RygNj
-fKqIBx/hPN/W/VWEpRs/YYTs/7Kmrah3TJ9GJaXhTDg4aWl/hz86QkGVLIa6Jx/i
-x48gT1OIDkUuZx8bJkG/a5QMnLGv9fBzkbTo0w2f3x0Kdch4c647vZ+HA+LlW0wh
-zZrHVVioEurl//AiVTo343Sx1sMpJHJteQcXvsrigu2VGHD6s0CsqbT6Tp+8+o8=
-=8dqX
+iQEcBAEBAgAGBQJWKs7FAAoJEII7l3Qv+yal4SQH/1VhXzjXvgZenM1KOv1mLZQy
+UFdEXxWzSy05fjiq5vPyc8XhCaKJXW3ypFmIvIrbA9djo3IjKz1M3WVDKEZ2db81
+wow4aveVNt8bAKUMr4+b5/Q/IiuUaL3JKs69CpmPXnvTokG+bvwZcU+oWtfFbgFh
+eDmeWRFnnydW1Hk8EtGH2ltlldMVRXibYBe/xoEbS/yPkLeurgeJcb/b0B7MkBe4
+uQKn+CP/Z4D1ze2U25N4QYkAAfnZJc06ERkgadZ96cJbbHelFWPk2vV38z+c20QZ
+JuX1oiayr0yxM7AfWq0IqZS6FnPOs3yN+gCxoIYgIFzq4hi+RuIObebkZATObEw=
+=de+z
 -----END PGP SIGNATURE-----

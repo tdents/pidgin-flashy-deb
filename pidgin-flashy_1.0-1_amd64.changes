@@ -2,45 +2,45 @@
 Hash: SHA1
 
 Format: 1.8
-Date: Tue, 05 Jun 2007 18:03:08 -0400
+Date: Tue, 24 Oct 2015 3:00:00 -0400
 Source: pidgin-flashy
 Binary: pidgin-flashy
 Architecture: source amd64
 Version: 1.0-1
-Distribution: unstable
+Distribution: nightly
 Urgency: low
 Maintainer: tdents <tdents@gmail.com>
 Changed-By: Andrey (dev) <tdents@gmail.com>
 Description: 
  pidgin-flashy - Flashy plugin for pidgin
 Changes: 
- pidgin-flashy (1.0-1) unstable; urgency=low
+ pidgin-flashy (1.0-1) nightly; urgency=low
  .
    * Just created
 Checksums-Sha1: 
- e26934898ee5b8685e0bf406e987dc150d7db23b 1356 pidgin-flashy_1.0-1.dsc
+ 37a541eaf9f6ab78992fed473db51b5bb30fb3c8 1356 pidgin-flashy_1.0-1.dsc
  0ea7fe5373d5937d3314f5f0e5812c1ab032b0d7 2112 pidgin-flashy_1.0.orig.tar.xz
- ec56fb0fde5abe4412a57bb70ced4d3aee69e1df 826 pidgin-flashy_1.0-1.debian.tar.gz
- 9792d42abfd3505f3fee86aa76921f547b62cca0 2922 pidgin-flashy_1.0-1_amd64.deb
+ 5fc848f842c1182a2680a2a26a60cad1b8261d51 835 pidgin-flashy_1.0-1.debian.tar.gz
+ fddff8cfb93351d6016f6de903c7c74fd1bd9f08 2944 pidgin-flashy_1.0-1_amd64.deb
 Checksums-Sha256: 
- 8ad9869f099a1afd398e5477902401e907821ca59bdbedadec9077648ed94475 1356 pidgin-flashy_1.0-1.dsc
+ 304266cebfb85462c2946e550c977e6a72a38f1494b70a8b5ed4dd11909015a5 1356 pidgin-flashy_1.0-1.dsc
  dacb16cf81601c4b7fb62076400ee790346b9d82e0ae1203a4550823c90f528e 2112 pidgin-flashy_1.0.orig.tar.xz
- ba6aafd5cb8578f7c77de7bce8fb41245bbc4d7b59087d11d334e753f50c145e 826 pidgin-flashy_1.0-1.debian.tar.gz
- e58212b7ab175f848244b5fd06cd2d189b740bc601ab097bb75da9d95abeed75 2922 pidgin-flashy_1.0-1_amd64.deb
+ 5699ddcd244c2f79fa528696ac0e0d57dc43b1f48548309d7cbdc951e8ca5b67 835 pidgin-flashy_1.0-1.debian.tar.gz
+ c69631e92877069ac442496a4609f8c74cd79abdf97ea909a1ff53b484c28394 2944 pidgin-flashy_1.0-1_amd64.deb
 Files: 
- d9c23828e8cc57aeb4d2b797932f38f5 1356 net optional pidgin-flashy_1.0-1.dsc
+ 6c3df10ea26b08a8c1e01d378bd50e88 1356 net optional pidgin-flashy_1.0-1.dsc
  6d5edfd27fb27d55c349966374f66d1e 2112 net optional pidgin-flashy_1.0.orig.tar.xz
- 913b3486a0030a0f7fe6ab6e16a9138b 826 net optional pidgin-flashy_1.0-1.debian.tar.gz
- 24c72ec5f23dad46e579fcfcd869d44c 2922 net optional pidgin-flashy_1.0-1_amd64.deb
+ 63b36892d30877757577e177d70978eb 835 net optional pidgin-flashy_1.0-1.debian.tar.gz
+ da43a0a86f72c62eeba4a0a35adf67a8 2944 net optional pidgin-flashy_1.0-1_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJWKskTAAoJEII7l3Qv+yalFRsH/1tURfhyAJXwD7yRvVcYCzeR
-AnW+TPNy9z3eF+l2fU8AbvckP2vXBkB0bUjldw4gQhuBqZNC1ViVfZoMtKK0MLN8
-8uyvK/Pu4mrxAUPoFQbYvhivv5IfedzxXM6FQ9tqa2EIFHswmZjoWOnHLY8+Bhii
-0FAm/mDL7MVWM3eg8xCZ5ZZq5LO5DODVhm4a5HsosBkXXo3ZkN8MBUSzxAUO3jlL
-9hNWU0DVNPQOMEhg9YNwT2H2ich4d2UhnsmT+T9QiBzcgQQMkZwB3VJphpbO5giG
-8NkFFqg+s6W/Txrelu5Yvi7RcLru/rfTYDgyxemegLT8nfJUme46HajjshkALzM=
-=QX++
+iQEcBAEBAgAGBQJWKs7IAAoJEII7l3Qv+yaliGIH/1OdO1upj9r7vRj2qDKL+RJU
+KGHVfOmspMS6ZCT8ghgeoIbIEslb0pUTbIQDiFMkPWgLgQBNQDSEUiicK1G4bIEf
+KT3uHTJCnKhveMrh+lwW7gal8eNMgzAubD2Lb0oQSUcBEUDnzLKptnOsmiW/kDNr
+3sW4OrO4fJhM/wAcX/Bteg5WgGU+9kfUplSDnWK6WMoBjgd5TKGgO1jFKGNLQytd
+9rWgv1Qp9pSCcoV/5LRKvaKX5m7iQrDQaF8uC3sMGK0/kiPOdf6xDvyFFBZQIV0M
+elQDmN3ygl34OpsjcCDBeY/5E2hjGYCO/eZJE58leKfqUJL533PTa5XODbTylTg=
+=D0E5
 -----END PGP SIGNATURE-----
